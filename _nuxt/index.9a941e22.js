@@ -1,0 +1,1 @@
+import{_ as n}from"./HeaderBar.a38dda14.js";import{a as _,o,b as t,e as c}from"./entry.1d8b2dcb.js";const r={};function a(s,d){const e=n;return o(),t("div",null,[c(e)])}const m=_(r,[["render",a]]);export{m as default};
